@@ -1,0 +1,10 @@
+<html>
+<div class="form">
+<form action="index.php" method="post">
+<p> Имя <input type="text" name="NAME" required /></p>
+<p> Возраст <input type="text" name="save" required /></p>
+<p> Профессия <input type="text" name="SURNAME" required /></p>
+<p> Доход <input type="text" name="SURNAME" required /></p>
+<input type="submit" value="Зарегистрироваться"/>
+</form>
+<html>
